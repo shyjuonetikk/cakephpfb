@@ -56,7 +56,6 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
 <div class="row">
     <div class="columns large-12">
         
-        <?php Debugger::checkSecurityKeys(); ?>
     </div>
 </div>
 
